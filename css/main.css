@@ -1,0 +1,58 @@
+.error{
+	color: #a94442 !important;
+    padding-top: 3px;
+}
+
+#error_output,#error_output_2{
+	display:none;
+    padding-left: 0px;
+    background: #a94442;
+    color: white;
+    padding: 7px;
+}
+
+#success_output,#success_output_2{
+	display: none;
+    padding-left: 0px;
+    background: #3c763d;
+    color: white;
+    padding: 7px;
+}
+
+.year_input{
+	font-size: 12px;
+}
+
+.year_amt_form_group{
+	width: 97px;
+}
+
+#sums-calculations,#true-negatives-calculations,#average-calculations,#capital-calculations{
+	color: white;
+    padding: 1px 0px 3px 12px;
+	display:none;
+}
+
+#sums-calculations{
+	background: #0275d8;
+}
+
+#true-negatives-calculations{
+	color:black;
+	background: #eeeeee;
+}
+
+#average-calculations{
+	background: #31708f;
+}
+
+#capital-calculations{
+	background:#3c763d;
+}
+
+.buttons{
+	margin-bottom:15px;
+}
+
+   
+   
